@@ -14,9 +14,11 @@ Use your tactical assignment in addition to your callsign.
 
 Example:
 
-> Net Control, this is **[CALLSIGN]**, Rescue Alpha with priority traffic.
+> Net Control, this is **[CALLSIGN]**, Rescue Alpha with simulation priority traffic.
 
 A tactical name does not replace required station identification.
+
+Always include words like **Simulation** or **Exercise** to properly identify the traffic is for this event, and not real-world traffic.
 
 ## What You May Communicate
 
@@ -48,7 +50,7 @@ When Net Control gives your team an instruction, do not immediately invent the r
 
 A proper response is:
 
-> Net Control, this is **[CALLSIGN]**, Rescue Alpha copies. I will relay that to Alpha Team Leader.
+> Net Control, this is **[CALLSIGN]**, Rescue Alpha copies **INFO**. I will relay that to Alpha Team Leader.
 
 Then wait for the Game Master to provide the result, either directly or through Net Control.
 

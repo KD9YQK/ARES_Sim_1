@@ -37,6 +37,7 @@ You observe:
 - A narrow sidewalk path that may be passable on foot.
 - No injured people visible from your current location.
 - Team vehicles cannot continue through the blocked access.
+- Bravo Team Leader has decided to procede on foot.
 
 Bravo Team Leader tells you to report the access problem to Net Control.
 
@@ -44,9 +45,19 @@ Communications task:
 
 Report the current situation to net control.
 
+## Status Update - 00:30 
+
+Your teams current status
+- Travelling on foot
+- A bent traffic sign is nearby
+- Upcoming intersection of X and X
+- Scattered debris including trash, tree branches
+- No people visible in this current area
+- no injuries to report
+
 ## Timed Event — 00:42
 
-Your team has a view of the east side of the building.
+Your team is now at it's destination and has a view of the east side of the building.
 
 You observe:
 

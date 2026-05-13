@@ -54,19 +54,9 @@ If asked how many injured:
 
 Two visible minor injuries. One additional person is emotionally distressed.
 
-If asked about the medication:
-
-The resident has not clearly identified the medication.
-
 If asked whether the building is safe:
 
 Your team cannot confirm structural safety.
-
-## Later Instructions
-
-If Net Control tells you Medical is moving to your position, acknowledge and state that you are relaying the information to Alpha Team Leader.
-
-If Net Control asks your team to check apartment 3B from outside, acknowledge that you are relaying the request to Alpha Team Leader. Wait for the Game Master result before reporting what happened.
 
 ## Restrictions
 

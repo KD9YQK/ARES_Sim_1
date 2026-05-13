@@ -21,15 +21,12 @@ You observe:
 - Residents gathering outside near the entrance.
 - Some people appear upset.
 - You do not know whether the structure is safe.
-- You do not have authority to move the team or enter the building.
 
 Alpha Team Leader tells you to check in with Net Control and report the team’s location.
 
 Communications task:
 
 Check in with callsign, tactical assignment, location, and basic situation.
-
-Do not request resources yet unless Net Control asks for more detail.
 
 ## Timed Event — 00:17
 
@@ -44,8 +41,6 @@ Alpha Team Leader tells you to report the following to Net Control:
 Communications task:
 
 Report the situation to Net Control. You may state that Alpha Team Leader is requesting guidance or appropriate support.
-
-You may not decide to move residents, enter the building, or direct medical response.
 
 ## Conditional Information
 

@@ -40,7 +40,7 @@ Alpha Team Leader tells you to report the following to Net Control:
 
 Communications task:
 
-Report the situation to Net Control. You may state that Alpha Team Leader is requesting guidance or appropriate support.
+Report the situation to Net Control.
 
 ## Conditional Information
 
@@ -61,14 +61,6 @@ The resident has not clearly identified the medication.
 If asked whether the building is safe:
 
 Your team cannot confirm structural safety.
-
-If asked whether your team can enter:
-
-Alpha Team Leader has not authorized entry, and your team does not have structural safety clearance.
-
-If asked for a patient contact point:
-
-South parking lot near the flagpole appears to be the clearest contact point, but Alpha Team Leader is awaiting direction.
 
 ## Later Instructions
 

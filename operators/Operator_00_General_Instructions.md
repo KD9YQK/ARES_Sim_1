@@ -50,7 +50,7 @@ When Net Control gives your team an instruction, do not immediately invent the r
 
 A proper response is:
 
-> Net Control, this is **[CALLSIGN]**, Rescue Alpha copies **INFO**. I will relay that to Alpha Team Leader.
+> Net Control, this is **[CALLSIGN]**, Rescue Alpha copies **[INFO]**. I will relay that to Alpha Team Leader.
 
 Then wait for the Game Master to provide the result, either directly or through Net Control.
 

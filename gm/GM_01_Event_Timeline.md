@@ -92,7 +92,7 @@ Operator: Rescue Alpha
 
 Scenario event:
 
-Rescue Alpha sees approximately 20 residents near the south entrance. Two have minor injuries. One resident is upset and wants to go back inside for medication. Rescue Alpha cannot confirm structural safety. Alpha Team Leader requests guidance through Net Control.
+Rescue Alpha sees approximately 20 residents near the south entrance. Two have minor injuries. Rescue Alpha cannot confirm structural safety. Alpha Team Leader requests medical assistance through Net Control.
 
 Purpose:
 
@@ -100,7 +100,7 @@ Tests priority traffic, resource requests, uncertainty, and safety communication
 
 GM notes:
 
-If NCO asks for medical support, tell NCO that Medical may be able to send a triage element but needs route, patient count, and contact point.
+If NCO asks for medical support, tell NCO to contact and deploy the Medical team.
 
 ### 00:20 — OP 4 Event: Downed Utility Line
 

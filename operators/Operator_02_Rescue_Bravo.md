@@ -42,9 +42,7 @@ Bravo Team Leader tells you to report the access problem to Net Control.
 
 Communications task:
 
-Report the blocked access and what you can confirm.
-
-Do not decide to proceed on foot unless Net Control or the Game Master directs it or later provides that update.
+Report the current situation to net control.
 
 ## Timed Event — 00:42
 
@@ -63,7 +61,7 @@ Bravo Team Leader tells you to report the observation.
 
 Communications task:
 
-Report the voices and damaged stairs. Be clear about what is unknown.
+Report the current situation to net control.
 
 ## Conditional Information
 

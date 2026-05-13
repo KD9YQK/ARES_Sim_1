@@ -72,7 +72,7 @@ After all check-ins:
 
 Use or adapt:
 
-> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net. This remains a directed net. Participating stations should hold routine traffic unless called. Priority or emergency simulation traffic may break at any time.
+> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net. This remains a directed net. Participating stations should hold routine traffic unless called. Priority or emergency simulation traffic may break at any time.  Real-world emergency traffic may break in at any time by stating “Real-world emergency traffic.”
 
 Optional status summary:
 
@@ -84,7 +84,7 @@ Do not summarize information unless it has been reported on the net or provided 
 
 Use or adapt:
 
-> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net.  Conducting scheduled status roll call and location update. Participating stations respond with callsign, tactical assignment, current location, current status, and any routine or priority traffic only.
+> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net.  Conducting scheduled status roll call and location update. Participating stations respond with callsign, tactical assignment, current location, current status, and any routine or priority traffic only. 
 
 Call each station in order.
 
@@ -100,6 +100,8 @@ Call each station in order.
 
 > [CALLSIGN] Logistics, check in with location and status.
 
+> Status roll call complete. Priority or emergency simulation traffic may break at any time.  Real-world emergency traffic may break in at any time by stating “Real-world emergency traffic.”
+
 If a station breaks in with priority traffic, acknowledge it and handle it before continuing the roll call.
 
 Example:
@@ -114,7 +116,7 @@ After handling the priority item:
 
 Use or adapt:
 
-> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net. Current known simulated incident status follows: [brief status summary]. This remains a directed net. Stations with priority traffic call Net Control.
+> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net. Current known simulated incident status follows: [brief status summary]. This remains a directed net.  Priority or emergency simulation traffic may break at any time.  Real-world emergency traffic may break in at any time by stating “Real-world emergency traffic.”
 
 The 00:45 summary should distinguish:
 

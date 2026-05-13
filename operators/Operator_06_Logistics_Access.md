@@ -13,86 +13,37 @@ You are the communicator for Logistics. You do not command logistics resources. 
 
 ## Initial Check-In Scene — 00:00
 
-Your team is at the public works garage.
-
-Available simulated resources:
-
-- Cones.
-- Barricades.
-- One pickup.
-- One small public works crew.
-
-Your team cannot support every request at once.
+Your team is at the public works garage awaiting EOC instructions.
 
 Logistics Lead tells you to check in and report availability.
 
 Communications task:
 
-Check in with callsign, tactical assignment, location, and general available resources.
+Check in with callsign, tactical assignment, location, and team status.
 
-Do not assign your crew anywhere unless directed.
+## Conditional Event — If/When EOC Requests assistance
 
-## Conditional Event — Around 00:24, If Asked About Medical Route
-
-Net Control may ask for a safe route for Medical to reach Rescue Alpha.
-
-Logistics Lead can suggest:
-
-- Medical should avoid Pine and 6th.
-- A possible route is west on 5th, then south on Cedar, approaching from the southwest.
-- This is a route suggestion, not a guarantee of safety.
+Net Control may provide a directive to relay to your team leader.
 
 Communications task:
 
-Relay the route suggestion if asked.
+Respond to the request.
 
-Do not order Medical to move.
+**NOTE:** At some point the GM will inject after this event, updating this Operator the team has left the garage and is enroute. 
 
 ## Timed Event — 00:51
 
+- The logistics team has arrived to the designated location.
+- Tree and debris removal at the east access road will take over an hour.
+- The road is wet and there is light rain
+
 Logistics Lead tells you to contact Net Control.
-
-Situation:
-
-- Public works can provide barricades immediately and one crew for access support.
-- The team can only focus on one main support task at a time.
-- Possible uses include marking or blocking the Pine and 6th utility hazard.
-- Possible uses include supporting south-side resident movement and medical access.
-- Possible uses include working on the east access blockage.
-
-Important limitation:
-
-Tree and debris removal at the east access road will take longer than the remaining exercise time.
 
 Communications task:
 
-Ask Net Control where the limited support should be directed.
-
-Do not choose the destination yourself.
+Contact net control and update with relevant information.
 
 ## Conditional Information
-
-Only provide these details if Net Control asks.
-
-If asked whether you can clear the east blockage quickly:
-
-No. It will take longer than the remaining exercise time.
-
-If asked whether barricades are available:
-
-Yes.
-
-If asked whether you can support Pine and 6th:
-
-Yes, if directed.
-
-If asked whether you can support south-side access:
-
-Yes, if directed.
-
-If asked whether you can do both:
-
-Not at the same time with current resources.
 
 If Net Control gives an assignment:
 

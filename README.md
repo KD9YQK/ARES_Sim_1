@@ -72,3 +72,13 @@ Other operator events occur between those anchors.
 ## Core Rule
 
 The scenario defines what operators observe, what their fictitious team leaders tell them, and when events occur. It does not define exactly what operators or Net Control must say. The training value comes from how participants interpret, prioritize, communicate, clarify, and track information.
+
+## Simulation setup
+
+Designate a location for the **Emergency Operations Center** or **EOC**.  Below is an example using Google Meeting rooms.
+
+- One meeting room for the pre-sim briefing.  This is where all participants will gather, receive game roles and packets.
+- A second meeting room to be used for the event itself.  This room is only for the GM, NCO, ANCO, and game observers.  The NCO and ANCO will use this room to communicate with each other, and the GM will observe and inject mostly through this channel.
+- A third and final meeting for debriefing after the event completes.
+
+This allows a workaround to potential meeting time limits.

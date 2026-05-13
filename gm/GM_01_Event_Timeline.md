@@ -102,10 +102,6 @@ GM notes:
 
 If NCO asks for medical support, tell NCO that Medical may be able to send a triage element but needs route, patient count, and contact point.
 
-If NCO asks about the medication, OP 1 cannot confirm what medication it is.
-
-If NCO ignores the re-entry risk, use the 00:24 conditional inject to escalate the resident movement toward the entrance.
-
 ### 00:20 — OP 4 Event: Downed Utility Line
 
 Operator: Utilities / Damage Assessment
@@ -126,17 +122,13 @@ If NCO asks for utility response ETA, no ETA is available during the exercise wi
 
 If NCO fails to broadcast the hazard, allow future routing decisions to be more difficult.
 
-### 00:24 — Conditional GM Inject: Medical Routing or Civilian Re-Entry Risk
+### 00:24 — Conditional GM Inject: Medical Routing
 
 Use this moment to respond to how NCO handled the 00:17 Rescue Alpha event.
 
 If NCO handled the civilian/medical issue well:
 
 Inject: Medical can send a small triage element, but needs a safe route and exact contact point.
-
-If NCO did not address the upset resident or safety concern:
-
-Inject to OP 1: The upset resident is now moving closer to the south entrance and appears ready to enter the damaged building.
 
 Purpose:
 

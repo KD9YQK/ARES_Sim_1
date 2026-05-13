@@ -48,7 +48,7 @@ NCO should not make up outcomes. If an outcome is needed, request it from the Ga
 
 Use or adapt:
 
-> This is **[CALLSIGN]**, Net Control, opening the Urban Search and Rescue Simulation Net. This is a directed net. All stations will check in with callsign, tactical assignment, current location, and immediate traffic if any. This is an exercise. Real-world emergency traffic may break in at any time by stating “Real-world emergency traffic.”
+> This is **[CALLSIGN]**, Net Control, opening the Dupage County ARES Urban Search and Rescue Simulation Net. This is a directed net. All participating stations will check in with callsign, tactical assignment, current location, and immediate traffic if any. This is strictly an exercise. Real-world emergency traffic may break in at any time by stating “Real-world emergency traffic.”
 
 Then conduct roll call:
 
@@ -66,13 +66,13 @@ Then conduct roll call:
 
 After all check-ins:
 
-> This is **[CALLSIGN]**, Net Control. All listed stations are checked in. This remains a directed simulation net. Stations hold routine traffic unless called. Priority simulation traffic may call Net Control.
+> This is **[CALLSIGN]**, Net Control. All participating stations are checked in. This remains a directed simulation net. Stations hold routine traffic unless called. Priority simulation traffic may call Net Control.
 
 ## Required Simulation Net Status Broadcast — 00:15
 
 Use or adapt:
 
-> This is **[CALLSIGN]**, Net Control. This is the Urban Search and Rescue Simulation Net. This remains a directed net. Stations should hold routine traffic unless called. Priority or emergency simulation traffic may break at any time.
+> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net. This remains a directed net. Participating stations should hold routine traffic unless called. Priority or emergency simulation traffic may break at any time.
 
 Optional status summary:
 
@@ -84,9 +84,21 @@ Do not summarize information unless it has been reported on the net or provided 
 
 Use or adapt:
 
-> This is **[CALLSIGN]**, Net Control. Conducting scheduled status roll call and location update. Stations respond with callsign, tactical assignment, current location, current status, and priority traffic only.
+> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net.  Conducting scheduled status roll call and location update. Participating stations respond with callsign, tactical assignment, current location, current status, and any routine or priority traffic only.
 
 Call each station in order.
+
+> [CALLSIGN] Rescue Alpha, check in with location and status.
+
+> [CALLSIGN] Rescue Bravo, check in with location and status.
+
+> [CALLSIGN] Medical Staging, check in with location and status.
+
+> [CALLSIGN] Utilities, check in with location and status.
+
+> [CALLSIGN] Shelter, check in with location and status.
+
+> [CALLSIGN] Logistics, check in with location and status.
 
 If a station breaks in with priority traffic, acknowledge it and handle it before continuing the roll call.
 
@@ -102,7 +114,7 @@ After handling the priority item:
 
 Use or adapt:
 
-> This is **[CALLSIGN]**, Net Control. This is the Urban Search and Rescue Simulation Net. Current known simulated incident status follows: [brief status summary]. This remains a directed net. Stations with priority traffic call Net Control.
+> This is **[CALLSIGN]**, Net Control. This is the Dupage County ARES Urban Search and Rescue Simulation Net. Current known simulated incident status follows: [brief status summary]. This remains a directed net. Stations with priority traffic call Net Control.
 
 The 00:45 summary should distinguish:
 
@@ -123,13 +135,25 @@ Avoid overstating uncertainty. Use phrases like:
 
 Use or adapt:
 
-> This is **[CALLSIGN]**, Net Control. Conducting final roll call for the Urban Search and Rescue Simulation Net. Stations respond with callsign, tactical assignment, final location, current status, and unresolved priority traffic.
+> This is **[CALLSIGN]**, Net Control. Conducting final roll call for the Dupage County Urban Search and Rescue Simulation Net. Participating stations respond with callsign, tactical assignment, final location, current status, and any unresolved routine or priority traffic.
 
 Call each station in order.
 
+> [CALLSIGN] Rescue Alpha, check in with location and status.
+
+> [CALLSIGN] Rescue Bravo, check in with location and status.
+
+> [CALLSIGN] Medical Staging, check in with location and status.
+
+> [CALLSIGN] Utilities, check in with location and status.
+
+> [CALLSIGN] Shelter, check in with location and status.
+
+> [CALLSIGN] Logistics, check in with location and status.
+
 After final responses:
 
-> This is **[CALLSIGN]**, Net Control. The Urban Search and Rescue Simulation Net is complete. All stations secure from simulation traffic. Prepare for debrief.
+> This is **[CALLSIGN]**, Net Control. The Dupage County ARES Urban Search and Rescue Simulation Net is complete. All participating stations are to return to the EOC and prepare for debrief.  This repeater system is returned to regular amatuer use.
 
 ## Common NCO Follow-Up Questions
 
@@ -179,25 +203,10 @@ Track at minimum:
 - Open requests.
 - Hazards affecting the team.
 - Assigned actions pending GM result.
-
-Track unresolved incident items:
-
-- East access blocked.
-- Pine and 6th utility hazard.
-- South entrance civilians.
-- Medical movement/contact point.
-- Apartment 3B unconfirmed missing-person report.
-- East-side voices/balcony residents.
-- Logistics resource assignment.
+- Track unresolved incident items
 
 ## Working With the GM
 
-When NCO needs an outcome, ANCO should ask GM.
+When NCO needs an outcome, ANCO should should present his exact notes to the GM.  The GM may respond at that moment, in a period of time, or maybe even not at all, depending on the traffic.
 
-Examples:
-
-- “GM, NCO assigned Logistics to Pine and 6th. What is the result?”
-- “GM, Rescue Alpha was asked to check apartment 3B from outside. What do they observe?”
-- “GM, Medical has safe route and contact point. Can they arrive before final roll call?”
-
-Do not let operators invent outcomes. Route outcome questions to GM.
+Do not invent outcomes. Route outcome questions to GM.

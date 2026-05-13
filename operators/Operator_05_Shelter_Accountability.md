@@ -43,11 +43,7 @@ Communications task:
 
 Decide how to report this to Net Control.
 
-This is the one operator card where you may need to break into the roll call with priority traffic.
-
-Be clear that the report is unconfirmed and conflicting.
-
-Do not report it as a confirmed trapped person.
+NOTE: This is the one operator card where you NEED to break into the roll call with priority traffic.  You are simulating a break in regular traffic, and add an element of stress to Net Control.
 
 ## Timed Event — 00:55
 

@@ -25,7 +25,12 @@ Communications task:
 
 Check in with callsign, tactical assignment, location, and capability in simple terms.
 
+## Status Update - 00:30 
+- 3 people have been treated and released for minor injuries
+- A small triage team is still in preperation for departure **(Only if a team has been requested by EOC)**
+
 ## Timed Event — 00:38
+NOTE: This event only happens if a request is made from the EOC
 
 Medical Team Leader is ready to send a small triage element if directed, but needs more information before moving.
 

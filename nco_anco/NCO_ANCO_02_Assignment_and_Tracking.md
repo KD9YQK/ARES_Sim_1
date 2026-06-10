@@ -13,7 +13,7 @@ NCO should focus on radio flow. ANCO should maintain the written picture.
 | Rescue Alpha |  | Alpha Team Leader | On scene | South side of apartment building |
 | Rescue Bravo |  | Bravo Team Leader | Enroute | East access road |
 | Medical Staging |  | Medical Team Leader | Staged | Community center parking lot |
-| Utilities |  | Utility Assessment Lead | Mobile | Pine and 6th area |
+| Utilities |  | Utility Assessment Lead | Mobile | Oak and 6th area |
 | Shelter |  | Shelter Lead | Setting up | Church basement on 5th Street |
 | Logistics |  | Logistics Lead | Staged | Public works garage |
 
@@ -39,7 +39,7 @@ Track each major issue separately.
 | East access blockage |  |  | East access road | Rescue Bravo / Logistics |  |  |
 | South entrance civilians |  |  | South entrance / flagpole | Rescue Alpha / Medical |  |  |
 | Medication/re-entry concern |  |  | South entrance | Rescue Alpha |  |  |
-| Utility hazard |  |  | Pine and 6th | Utilities / Logistics |  |  |
+| Utility hazard |  |  | Oak and 6th | Utilities / Logistics |  |  |
 | Medical movement |  |  | Community center to south parking lot | Medical / Logistics |  |  |
 | Apartment 3B report |  | Unconfirmed | Apartment 3B, second floor | Shelter / Rescue |  |  |
 | East-side voices |  |  | East side / balcony | Rescue Bravo |  |  |

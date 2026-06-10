@@ -57,7 +57,7 @@ No injuries observed at this location.
 
 If asked whether traffic can pass:
 
-Recommend avoiding Pine and 6th.
+Recommend avoiding Oak and 6th.
 
 If asked whether the utility company has been notified:
 
@@ -69,7 +69,7 @@ Your team can observe and report. Physical perimeter control would require direc
 
 ## Later Instructions
 
-If Net Control assigns Logistics or public works support to Pine and 6th, acknowledge if appropriate and wait for the Game Master before reporting barricades, perimeter control, or utility response.
+If Net Control assigns Logistics or public works support to Oak and 6th, acknowledge if appropriate and wait for the Game Master before reporting barricades, perimeter control, or utility response.
 
 ## Restrictions
 

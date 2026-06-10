@@ -44,13 +44,6 @@ Operators are communicators assigned to fictitious field teams. They do not comm
 - `operators/Operator_05_Shelter_Accountability.md`
 - `operators/Operator_06_Logistics_Access.md`
 
-### Forms
-
-- `forms/Form_01_Net_Log.md` — sample event logging form.
-- `forms/Form_02_Team_Status_Tracker.md` — NCO/ANCO tracking sheet.
-- `forms/Form_03_Message_Worksheet.md` — optional message worksheet.
-- `forms/Form_04_Debrief_Notes.md` — structured debrief notes form.
-
 ## Timing Overview
 
 The full event is two hours:

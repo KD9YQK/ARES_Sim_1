@@ -6,17 +6,6 @@ This document helps NCO and ANCO track team assignments, locations, hazards, req
 
 NCO should focus on radio flow. ANCO should maintain the written picture.
 
-## Team Assignment Table
-
-| Tactical Assignment | Operator Callsign | Simulated Team Leader | Starting Status | Starting Location |
-|---|---|---|---|---|
-| Rescue Alpha |  | Alpha Team Leader | On scene | South side of apartment building |
-| Rescue Bravo |  | Bravo Team Leader | Enroute | East access road |
-| Medical Staging |  | Medical Team Leader | Staged | Community center parking lot |
-| Utilities |  | Utility Assessment Lead | Mobile | Oak and 6th area |
-| Shelter |  | Shelter Lead | Setting up | Church basement on 5th Street |
-| Logistics |  | Logistics Lead | Staged | Public works garage |
-
 ## Status Board Fields
 
 Use these columns on a whiteboard, paper sheet, or spreadsheet.
@@ -29,21 +18,6 @@ Use these columns on a whiteboard, paper sheet, or spreadsheet.
 | Utilities |  |  |  |  |  |  |
 | Shelter |  |  |  |  |  |  |
 | Logistics |  |  |  |  |  |  |
-
-## Incident Item Tracker
-
-Track each major issue separately.
-
-| Item | Status | Confirmed? | Location | Responsible / Related Team | Last Update | Next Action |
-|---|---|---|---|---|---:|---|
-| East access blockage |  |  | East access road | Rescue Bravo / Logistics |  |  |
-| South entrance civilians |  |  | South entrance / flagpole | Rescue Alpha / Medical |  |  |
-| Medication/re-entry concern |  |  | South entrance | Rescue Alpha |  |  |
-| Utility hazard |  |  | Oak and 6th | Utilities / Logistics |  |  |
-| Medical movement |  |  | Community center to south parking lot | Medical / Logistics |  |  |
-| Apartment 3B report |  | Unconfirmed | Apartment 3B, second floor | Shelter / Rescue |  |  |
-| East-side voices |  |  | East side / balcony | Rescue Bravo |  |  |
-| Logistics crew assignment |  |  | TBD | Logistics |  |  |
 
 ## Information Confidence Labels
 
@@ -117,12 +91,3 @@ Unresolved priority items:
 
 - 
 
-## Tracking Tips
-
-Write times for every major report.
-
-Do not erase uncertainty. Change “missing” to “conflicting/unconfirmed,” not “resolved,” unless GM confirms it.
-
-If NCO gives an instruction to a team, track it as pending until GM gives a result.
-
-If a team reports “unknown,” write unknown. Do not fill in blanks.

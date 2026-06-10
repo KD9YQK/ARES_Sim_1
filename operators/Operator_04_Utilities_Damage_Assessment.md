@@ -13,7 +13,7 @@ You are the communicator for Utilities. You do not command the utility team. You
 
 ## Initial Check-In Scene — 00:00
 
-Your team is mobile near Pine and 6th.
+Your team is mobile near Oak and 1st.
 
 Your team is checking storm damage and possible utility hazards.
 
@@ -27,7 +27,7 @@ Check in with callsign, tactical assignment, location, and current assignment.
 
 ## Timed Event — 00:20
 
-Your team finds a wire down across part of the street near Pine and 6th.
+Your team finds a wire down across part of the street near Oak and 6th.
 
 You observe:
 

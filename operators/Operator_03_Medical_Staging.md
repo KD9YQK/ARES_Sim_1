@@ -17,7 +17,7 @@ Your team is staged at the community center parking lot, two blocks west of the 
 
 Your team has limited supplies suitable for basic triage and minor injuries.
 
-Your team does not have transport authority and does not self-deploy without direction.
+There are five civilians present with minor non-threatening injuries being treated.
 
 Medical Team Leader tells you to check in and report staging status.
 

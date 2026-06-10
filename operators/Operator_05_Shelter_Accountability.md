@@ -53,14 +53,8 @@ You learn:
 
 - There are now 17 residents at the shelter.
 - A newly arrived resident states that the apartment 3B occupant left with family before the collapse.
-- This may explain the earlier missing-person report.
-- You still cannot personally verify it.
 
 Shelter Lead tells you to update Net Control.
-
-Communications task:
-
-Provide an accountability update. Be clear that the missing-person concern may be outdated but is not personally confirmed by your team.
 
 ## Conditional Information
 

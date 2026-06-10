@@ -205,7 +205,7 @@ The summary should reflect only what the net actually knows.
 Possible known items:
 
 - East vehicle access blocked.
-- Pine and 6th utility hazard.
+- Oak and 6th utility hazard.
 - Civilians near south entrance.
 - Medical staging or movement.
 - Unconfirmed apartment 3B report.

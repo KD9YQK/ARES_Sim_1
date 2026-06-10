@@ -51,7 +51,7 @@ Acknowledge that you are passing the instruction to Logistics Lead. Wait for the
 
 ## Later Instructions
 
-If assigned to Pine and 6th, the Game Master may later tell you the hazard perimeter is improved.
+If assigned to Oak and 6th, the Game Master may later tell you the hazard perimeter is improved.
 
 If assigned to south-side access, the Game Master may later tell you medical and resident movement is improved.
 

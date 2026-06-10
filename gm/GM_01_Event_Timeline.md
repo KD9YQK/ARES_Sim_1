@@ -67,11 +67,7 @@ Tests whether the operator reports access limitations and whether NCO asks for u
 
 GM notes:
 
-If NCO asks whether vehicles can pass, answer no through OP 2.
-
-If NCO asks whether foot access is possible, OP 2 may report that foot access may be possible along the sidewalk but is cluttered.
-
-If NCO does not ask follow-up questions, leave the access issue partially unresolved.
+If NCO does not report road blockage to GM, leave the access issue partially unresolved.
 
 ### 00:15 — Required NCO Simulation Net Status Broadcast
 
@@ -82,7 +78,6 @@ GM observes:
 - Did NCO remember the scheduled broadcast?
 - Did NCO use callsign?
 - Did NCO maintain directed-net control?
-- Did NCO summarize known status if appropriate?
 
 No operator event is scheduled here.
 
@@ -100,7 +95,7 @@ Tests priority traffic, resource requests, uncertainty, and safety communication
 
 GM notes:
 
-If NCO asks for medical support, tell NCO to contact and deploy the Medical team.
+If NCO reports injuries to GM, tell NCO to contact and prepare and deploy the Medical team.
 
 ### 00:20 — OP 4 Event: Downed Utility Line
 
@@ -108,7 +103,7 @@ Operator: Utilities / Damage Assessment
 
 Scenario event:
 
-Utilities finds a wire down near Pine and 6th, near standing water. Energized status is unknown. Pedestrians could enter the area.
+Utilities finds a wire down near Oak and 6th, near standing water. Energized status is unknown. Pedestrians could enter the area.
 
 Purpose:
 
@@ -116,19 +111,15 @@ Tests hazard reporting and whether NCO broadcasts safety-critical information to
 
 GM notes:
 
-If NCO asks whether it is energized, answer unknown; treat as energized.
-
-If NCO asks for utility response ETA, no ETA is available during the exercise window.
-
 If NCO fails to broadcast the hazard, allow future routing decisions to be more difficult.
 
 ### 00:24 — Conditional GM Inject: Medical Routing
 
 Use this moment to respond to how NCO handled the 00:17 Rescue Alpha event.
 
-If NCO handled the civilian/medical issue well:
+If NCO reported the civilian/medical issue well:
 
-Inject: Medical can send a small triage element, but needs a safe route and exact contact point.
+Inject: Medical can send a small triage element, but will need a safe route and exact contact point later on.
 
 Purpose:
 
@@ -164,8 +155,6 @@ Tests whether an operator breaks appropriately with priority traffic and whether
 GM notes:
 
 If NCO asks whether confirmed, OP 5 should say no.
-
-If NCO tasks rescue teams, ensure it is framed as safe exterior verification only unless GM later provides more.
 
 If NCO treats the report as confirmed, note for debrief.
 
@@ -232,19 +221,13 @@ Operator: Logistics / Access
 
 Scenario event:
 
-Logistics has barricades and one crew available. They can support only one main task at a time: Pine and 6th utility perimeter, south-side access/civilian movement, or east access blockage. Tree/debris removal will take longer than the remaining exercise time.
+Tree/debris removal will take longer than the remaining exercise time.
 
 Purpose:
 
 Tests NCO resource prioritization.
 
 GM notes:
-
-If NCO sends resources to Pine and 6th, hazard perimeter improves.
-
-If NCO sends resources to south side, medical and resident movement improve.
-
-If NCO sends resources to east blockage, work begins but access will not be cleared during the exercise.
 
 If NCO hesitates or never assigns, the resource remains staged and unused.
 
@@ -254,7 +237,7 @@ Operator: Shelter / Resident Accountability
 
 Scenario event:
 
-Shelter now has 17 residents. A newly arrived resident says the apartment 3B occupant left with family before the collapse. This conflicts with the earlier report and cannot be personally verified by Shelter.
+Shelter now has 17 residents. A newly arrived resident says the apartment 3B occupant left with family before the collapse.
 
 Purpose:
 
@@ -262,7 +245,7 @@ Tests correction of earlier information and handling of changing reports.
 
 GM notes:
 
-NCO should downgrade but not erase the missing-person concern unless confirmed by command or rescue.
+None
 
 ### 00:57 — GM Final Stabilization Inject
 

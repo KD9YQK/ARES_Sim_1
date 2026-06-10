@@ -172,11 +172,11 @@ Tests whether support teams request needed information before movement and wheth
 
 GM notes:
 
-If NCO provides a route avoiding Pine and 6th and a contact point, Medical may later be reported as moving or arriving.
+If NCO provides a route avoiding Oak and 6th and a contact point, Medical may later be reported as moving or arriving.
 
 If route is unclear, Medical should hold.
 
-If NCO sends Medical through Pine and 6th, treat it as a safety/routing error and require reroute.
+If NCO sends Medical through Oak and 6th, treat it as a safety/routing error and require reroute.
 
 ### 00:42 — OP 2 Event: Voices on East Side
 

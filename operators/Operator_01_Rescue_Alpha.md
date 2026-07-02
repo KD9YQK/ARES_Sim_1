@@ -36,7 +36,7 @@ Alpha Team Leader tells you to report the following to Net Control:
 - Two residents appear to have minor injuries.
 - One resident is upset and keeps saying they need to go back inside for medication.
 - The team does not know whether the building is safe.
-- Alpha Team Leader requests guidance through Net Control.
+- Alpha Team Leader requests medical assistance/guidance through Net Control.
 
 Communications task:
 

@@ -30,7 +30,7 @@ Check in with callsign, tactical assignment, location, and capability in simple 
 - A small triage team is still in preperation for departure **(Only if a team has been requested by EOC)**
 
 ## Timed Event — 00:38
-NOTE: This event only happens if an earlier request is made from the EOC
+NOTE: This event only happens if requested by Net Control or directed by GM.
 
 Medical Team Leader is ready to send a small triage element if directed, but needs more information before moving.
 

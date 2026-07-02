@@ -4,7 +4,7 @@
 
 Tactical assignment: **Utilities**  
 Fictitious team leader: **Utility Assessment Lead**  
-Starting location: **Mobile near Oak and 6th**  
+Starting location: **Mobile near Oak and 1st**  
 Role: Radio operator for a field utility and damage assessment team
 
 ## Operator Rule

@@ -50,7 +50,7 @@ Report the current situation to net control.
 Your teams current status
 - Travelling on foot
 - A bent traffic sign is nearby
-- Upcoming intersection of X and X
+- Current location is east-side approach on foot, not yet at the building
 - Scattered debris including trash, tree branches
 - No people visible in this current area
 - no injuries to report

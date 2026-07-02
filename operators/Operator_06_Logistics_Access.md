@@ -31,7 +31,7 @@ Respond to the request.
 
 **NOTE:** At some point the GM will inject after this event, updating this Operator the team has left the garage and is enroute. 
 
-## Timed Event — 00:51 - ONLY if EOC requested and prior conditional event activated.
+## Timed Event — 00:51 - ONLY if requested by Net Control or directed by GM and prior conditional event activated.
 
 - The logistics team has arrived to the designated location.
 - Tree and debris removal at the east access road will take over an hour.

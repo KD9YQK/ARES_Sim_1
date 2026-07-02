@@ -13,7 +13,7 @@ You are the communicator for Logistics. You do not command logistics resources. 
 
 ## Initial Check-In Scene — 00:00
 
-Your team is at the public works garage awaiting EOC instructions.
+Your team is at the public works garage awaiting assignment.
 
 Logistics Lead tells you to check in and report availability.
 
@@ -21,7 +21,7 @@ Communications task:
 
 Check in with callsign, tactical assignment, location, and team status.
 
-## Conditional Event — If/When EOC Requests assistance
+## Conditional Event — If/When requested by Net Control or directed by GM
 
 Net Control MAY provide a directive to relay to your team leader.
 

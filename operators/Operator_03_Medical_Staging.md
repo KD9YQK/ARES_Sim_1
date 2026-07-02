@@ -27,7 +27,7 @@ Check in with callsign, tactical assignment, location, and capability in simple 
 
 ## Status Update - 00:30 
 - 3 people have been treated and released for minor injuries
-- A small triage team is still in preperation for departure **(Only if a team has been requested by EOC)**
+- A small triage team is still in preparation for departure **(Only if a team has been requested by Net Control or GM)**
 
 ## Timed Event — 00:38
 NOTE: This event only happens if requested by Net Control or directed by GM.

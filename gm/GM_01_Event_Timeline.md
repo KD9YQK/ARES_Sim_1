@@ -95,7 +95,7 @@ Tests priority traffic, resource requests, uncertainty, and safety communication
 
 GM notes:
 
-If NCO reports injuries to GM, tell NCO to contact and prepare and deploy the Medical team.
+If NCO requests guidance on medical assistance to GM, tell NCO that Medical can prepare a small triage element but will need safe route, patient count, injury type, contact point, and safety confirmation before movement.
 
 ### 00:20 — OP 4 Event: Downed Utility Line
 

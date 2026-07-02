@@ -155,7 +155,7 @@ Call each station in order.
 
 After final responses:
 
-> This is **[CALLSIGN]**, Net Control. The Dupage County ARES Urban Search and Rescue Simulation Net is complete. All participating stations are to return to the EOC and prepare for debrief.  This repeater system is returned to regular amatuer use.
+> This is **[CALLSIGN]**, Net Control. The Dupage County ARES Urban Search and Rescue Simulation Net is complete. All participating stations are to return to the EOC and prepare for debrief.  This repeater system is returned to regular amateur use.
 
 ## Common NCO Follow-Up Questions
 

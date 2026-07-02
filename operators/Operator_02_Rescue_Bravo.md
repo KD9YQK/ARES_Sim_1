@@ -37,7 +37,7 @@ You observe:
 - A narrow sidewalk path that may be passable on foot.
 - No injured people visible from your current location.
 - Team vehicles cannot continue through the blocked access.
-- Bravo Team Leader has decided to procede on foot.
+- Bravo Team Leader has decided to proceed on foot.
 
 Bravo Team Leader tells you to report the access problem to Net Control.
 

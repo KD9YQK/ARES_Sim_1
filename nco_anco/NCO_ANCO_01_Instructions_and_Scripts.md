@@ -209,6 +209,6 @@ Track at minimum:
 
 ## Working With the GM
 
-When NCO needs an outcome, ANCO should should present his exact notes to the GM.  The GM may respond at that moment, in a period of time, or maybe even not at all, depending on the traffic.
+When NCO needs an outcome, ANCO should present exact notes to the GM.  The GM may respond at that moment, in a period of time, or maybe even not at all, depending on the traffic.
 
 Do not invent outcomes. Route outcome questions to GM.

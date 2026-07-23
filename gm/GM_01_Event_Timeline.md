@@ -158,6 +158,18 @@ If NCO asks whether confirmed, OP 5 should say no.
 
 If NCO treats the report as confirmed, note for debrief.
 
+### 00:34 — Conditional GM Inject: Logistics Routing
+
+Use this moment to respond to how NCO handled the 00:10 road blockage event.
+
+If NCO reported the Bravo/road blockage issue well:
+
+Inject: Logistics can send a cleanup crew to the Bravo blockage location.
+
+Purpose:
+
+Tests whether Net Control coordinates support rather than assuming field teams solved the issue.
+
 ### 00:38 — OP 3 Event: Medical Needs Information Before Movement
 
 Operator: Medical Staging

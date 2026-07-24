@@ -4,7 +4,7 @@
 
 Tactical assignment: **Rescue Bravo**  
 Fictitious team leader: **Bravo Team Leader**  
-Starting location: **Enroute to east access road**  
+Starting location: **Eastbound on 6th St and Elm St**  
 Role: Radio operator for a second rescue team approaching from the east
 
 ## Operator Rule
@@ -13,7 +13,7 @@ You are the communicator for Rescue Bravo. You do not command Rescue Bravo. You 
 
 ## Initial Check-In Scene — 00:00
 
-Your team is enroute to the east access road near the incident area.
+Your team is enroute to the incident area bearing eastbound on 6th St and Elm St.
 
 You are approximately five minutes away.
 
@@ -29,7 +29,7 @@ Do not report conditions you have not observed.
 
 ## Timed Event — 00:10
 
-Your team arrives near the east access road.
+Your team arrives near 6th St and Pine St.
 
 You observe:
 

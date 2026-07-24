@@ -59,7 +59,7 @@ Operator: Rescue Bravo
 
 Scenario event:
 
-Rescue Bravo arrives near the east access road. A large fallen tree and storm debris block vehicle access. A narrow sidewalk path may be passable on foot. No injured people are visible.
+Rescue Bravo arrives near 6th St and Pine St. A large fallen tree and storm debris block vehicle access. A narrow sidewalk path may be passable on foot. No injured people are visible.
 
 Purpose:
 

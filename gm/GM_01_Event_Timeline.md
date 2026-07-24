@@ -103,7 +103,7 @@ Operator: Utilities / Damage Assessment
 
 Scenario event:
 
-Utilities finds a wire down near Oak and 6th, near standing water. Energized status is unknown. Pedestrians could enter the area.
+Utilities finds a wire down near Maple and 5th, near standing water. Energized status is unknown. Pedestrians could enter the area.
 
 Purpose:
 

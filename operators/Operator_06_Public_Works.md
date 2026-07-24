@@ -1,4 +1,4 @@
-# Operator Card 6 — Logistics / Access Radio Operator
+# Operator Card 6 — Public Works Radio Operator
 
 ## Assignment
 

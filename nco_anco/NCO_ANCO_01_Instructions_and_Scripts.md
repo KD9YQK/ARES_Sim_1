@@ -62,7 +62,7 @@ Then conduct roll call:
 
 > Shelter, check in.
 
-> Logistics, check in.
+> Public Works, check in.
 
 After all check-ins:
 
@@ -98,7 +98,7 @@ Call each station in order.
 
 > [CALLSIGN] Shelter, check in with location and status.
 
-> [CALLSIGN] Logistics, check in with location and status.
+> [CALLSIGN] Public Works, check in with location and status.
 
 > Status roll call complete. Priority or emergency simulation traffic may break at any time.  Real-world emergency traffic may break in at any time by stating “Real-world emergency traffic.”
 
@@ -151,7 +151,7 @@ Call each station in order.
 
 > [CALLSIGN] Shelter, check in with location and status.
 
-> [CALLSIGN] Logistics, check in with location and status.
+> [CALLSIGN] Public Works, check in with location and status.
 
 After final responses:
 

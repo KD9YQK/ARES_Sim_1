@@ -4,7 +4,7 @@
 
 Tactical assignment: **Shelter**  
 Fictitious team leader: **Shelter Lead**  
-Starting location: **Church basement on 4th Street**  
+Starting location: **Civic Center basement on 4th Street**  
 Role: Radio operator for a resident reception and accountability site
 
 ## Operator Rule
@@ -13,7 +13,7 @@ You are the communicator for Shelter. You do not command the shelter operation. 
 
 ## Initial Check-In Scene — 00:00
 
-Your team is at the church basement on 4th St and Oak St.
+Your team is at the civic center basement on 4th St and Oak St.
 
 The site is being prepared to receive displaced residents.
 

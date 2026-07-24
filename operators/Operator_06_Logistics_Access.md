@@ -2,20 +2,20 @@
 
 ## Assignment
 
-Tactical assignment: **Logistics**  
-Fictitious team leader: **Logistics Lead**  
+Tactical assignment: **Public Works**  
+Fictitious team leader: **Public WOrks Lead**  
 Starting location: **Public works garage**  
-Role: Radio operator for a limited logistics and access support team
+Role: Radio operator for a limited public works support team
 
 ## Operator Rule
 
-You are the communicator for Logistics. You do not command logistics resources. You report what Logistics Lead tells you, what your card says is available, and what Net Control asks you to relay.
+You are the communicator for Public Works. You do not command these resources. You report what Public Works Lead tells you, what your card says is available, and what Net Control asks you to relay.
 
 ## Initial Check-In Scene — 00:00
 
 Your team is at the public works garage awaiting assignment.
 
-Logistics Lead tells you to check in and report availability.
+Public Works Lead tells you to check in and report availability.
 
 Communications task:
 
@@ -31,13 +31,17 @@ Respond to the request.
 
 **NOTE:** At some point the GM will inject after this event, updating this Operator the team has left the garage and is enroute. 
 
+## Timed Event — 00:38 - ONLY if directed by GM.
+
+Inform Net Control that the Public Works Team
+
 ## Timed Event — 00:51 - ONLY if requested by Net Control or directed by GM and prior conditional event activated.
 
-- The logistics team has arrived to the designated location.
+- The public works team has arrived to the designated location.
 - Tree and debris removal at the east access road will take over an hour.
 - The road is wet and there is light rain
 
-Logistics Lead tells you to contact Net Control.
+Public Works Lead tells you to contact Net Control.
 
 Communications task:
 
@@ -47,7 +51,7 @@ Contact net control and update with relevant information.
 
 If Net Control gives an assignment:
 
-Acknowledge that you are passing the instruction to Logistics Lead. Wait for the Game Master before reporting completion.
+Acknowledge that you are passing the instruction to Public Works Lead. Wait for the Game Master before reporting completion.
 
 ## Later Instructions
 

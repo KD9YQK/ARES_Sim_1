@@ -16,23 +16,24 @@ Operators are communicators assigned to fictitious field teams. They do not comm
 - OP 1 — Rescue Alpha Radio Operator
 - OP 2 — Rescue Bravo Radio Operator
 - OP 3 — Medical Staging Radio Operator
-- OP 4 — Utilities / Damage Assessment Radio Operator
-- OP 5 — Shelter / Resident Accountability Radio Operator
-- OP 6 — Logistics / Access Radio Operator
+- OP 4 — Utilities Operator
+- OP 5 — Shelter Radio Operator
+- OP 6 — Public WorksRadio Operator
 
 ## Package Contents
 
 ### GM Documents
 
 - `gm/GM_01_Event_Timeline.md` — chronological one-hour event schedule.
-- `gm/GM_02_Response_Injects.md` — conditional GM response injects.
-- `gm/GM_03_Pre_Brief.md` — pre-exercise briefing guide.
-- `gm/GM_04_De_Brief.md` — post-exercise debrief guide.
+- `gm/GM_02_Pre_Brief.md` — pre-exercise briefing guide.
+- `gm/GM_03_De_Brief.md` — post-exercise debrief guide.
+- `gm/GM_04_Map.png` - GM map.
 
 ### NCO / ANCO Documents
 
 - `nco_anco/NCO_ANCO_01_Instructions_and_Scripts.md` — net start, status, roll call, and closing scripts.
 - `nco_anco/NCO_ANCO_02_Assignment_and_Tracking.md` — team assignment and status tracking guide.
+- `nco_anco/NCO_ANCO_03_Map.png` - NCO and ANCO tracking map.
 
 ### Operator Documents
 

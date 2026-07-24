@@ -34,7 +34,7 @@ Respond to the request.
 ## Timed Event — 00:51 - ONLY if prior conditional event activated.
 
 - The public works team has arrived to the designated location.
-- Tree and debris removal at the east access road will take over an hour.
+- Tree and debris removal at Pine and 6th will take over an hour.
 - The road is wet and there is light rain
 
 Public Works Lead tells you to contact Net Control.
@@ -48,14 +48,6 @@ Contact net control and update with relevant information.
 If Net Control gives an assignment:
 
 Acknowledge that you are passing the instruction to Public Works Lead. Wait for the Game Master before reporting completion.
-
-## Later Instructions
-
-If assigned to Oak and 6th, the Game Master may later tell you the hazard perimeter is improved.
-
-If assigned to south-side access, the Game Master may later tell you medical and resident movement is improved.
-
-If assigned to east blockage, the Game Master may later tell you work has started, but access will not be cleared during the exercise.
 
 ## Restrictions
 

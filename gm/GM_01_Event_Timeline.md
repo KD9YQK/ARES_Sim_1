@@ -31,7 +31,7 @@ The GM should not force a perfect outcome. Allow operators and Net Control to in
 - OP 3 — Medical Staging
 - OP 4 — Utilities / Damage Assessment
 - OP 5 — Shelter / Resident Accountability
-- OP 6 — Logistics / Access
+- OP 6 — Public Works / Access
 
 ## Chronological Timeline
 
@@ -158,13 +158,13 @@ If NCO asks whether confirmed, OP 5 should say no.
 
 If NCO treats the report as confirmed, note for debrief.
 
-### 00:34 — Conditional GM Inject: Logistics Routing
+### 00:34 — Conditional GM Inject: Public Works Routing
 
 Use this moment to respond to how NCO handled the 00:10 road blockage event.
 
 If NCO reported the Bravo/road blockage issue well:
 
-Inject: Logistics can send a cleanup crew to the Bravo blockage location.
+Inject: NCO can dispatch Public Works to the Bravo blockage location.
 
 Purpose:
 

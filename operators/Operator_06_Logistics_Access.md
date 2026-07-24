@@ -3,7 +3,7 @@
 ## Assignment
 
 Tactical assignment: **Public Works**  
-Fictitious team leader: **Public WOrks Lead**  
+Fictitious team leader: **Public Works Lead**  
 Starting location: **Public works garage**  
 Role: Radio operator for a limited public works support team
 

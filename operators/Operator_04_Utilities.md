@@ -4,7 +4,7 @@
 
 Tactical assignment: **Utilities**  
 Fictitious team leader: **Utility Assessment Lead**  
-Starting location: **Mobile near Oak and 1st**  
+Starting location: **Heading southbound on Maple St and 2nd St**  
 Role: Radio operator for a field utility and damage assessment team
 
 ## Operator Rule
@@ -13,7 +13,7 @@ You are the communicator for Utilities. You do not command the utility team. You
 
 ## Initial Check-In Scene — 00:00
 
-Your team is mobile near Oak and 1st.
+Your team is mobile heading southbound near Maple and 2nd St.
 
 Your team is checking storm damage and possible utility hazards.
 
@@ -27,7 +27,7 @@ Check in with callsign, tactical assignment, location, and current assignment.
 
 ## Timed Event — 00:20
 
-Your team finds a wire down across part of the street near Oak and 6th.
+Your team finds a wire down across part of the street near Maple St and 5th St.
 
 You observe:
 
@@ -57,7 +57,7 @@ No injuries observed at this location.
 
 If asked whether traffic can pass:
 
-Recommend avoiding Oak and 6th.
+Recommend avoiding Maple St and 5th St.
 
 If asked whether the utility company has been notified:
 
@@ -66,10 +66,6 @@ Utility Assessment Lead can request that notification through Net Control, but y
 If asked whether your team can secure the area:
 
 Your team can observe and report. Physical perimeter control would require direction and resources from Net Control/Game Master.
-
-## Later Instructions
-
-If Net Control assigns Logistics or public works support to Oak and 6th, acknowledge if appropriate and wait for the Game Master before reporting barricades, perimeter control, or utility response.
 
 ## Restrictions
 

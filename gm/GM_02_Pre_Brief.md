@@ -29,7 +29,7 @@ Assign:
 - OP 3 Medical Staging
 - OP 4 Utilities / Damage Assessment
 - OP 5 Shelter / Resident Accountability
-- OP 6 Logistics / Access
+- OP 6 Public Works / Access
 
 Explain that operators are communicators attached to fictitious teams, not commanders of those teams.
 

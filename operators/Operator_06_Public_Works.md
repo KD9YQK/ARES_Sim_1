@@ -29,13 +29,9 @@ Communications task:
 
 Respond to the request.
 
-**NOTE:** At some point the GM will inject after this event, updating this Operator the team has left the garage and is enroute. 
+**NOTE:** If this event triggers, wait 4 minutes after your initial response, then inform net control the team has left the garage and is enroute. 
 
-## Timed Event — 00:38 - ONLY if directed by GM.
-
-Inform Net Control that the Public Works Team
-
-## Timed Event — 00:51 - ONLY if requested by Net Control or directed by GM and prior conditional event activated.
+## Timed Event — 00:51 - ONLY if prior conditional event activated.
 
 - The public works team has arrived to the designated location.
 - Tree and debris removal at the east access road will take over an hour.
